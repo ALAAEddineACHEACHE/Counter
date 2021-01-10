@@ -1,0 +1,25 @@
+body {
+    margin:0;
+    padding: 0;
+}
+.container {
+    max-width: 500px;
+    margin: auto;
+  }
+.container h1{
+    letter-spacing: 5px;
+    width: 10%;
+    margin:auto;
+    transform: translate(-90%,500%);
+}
+h1#value{
+    margin-right: 27%;
+    margin-top: 7%;
+}
+.btn{
+    width: 24%;
+    margin:auto;
+    transform: translate(82%,785%);
+    margin: 5px;
+}
+
